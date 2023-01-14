@@ -75,6 +75,9 @@ Once you unzip the modular_code.zip file you can find the following folders with
 - output
 - lib
 
+<img width="380" alt="Modularized code folder structure" src="https://user-images.githubusercontent.com/68806600/212447601-192f47ff-58e4-4fc3-bbb6-ef0053ee4214.PNG">
+
+
 1. The input folder contains all the data that we have for analysis. In our case, it will contain a three csv files which are
 - store.csv
 - test.csv
